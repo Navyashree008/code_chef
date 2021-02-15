@@ -1,0 +1,5 @@
+name = input("enter name:")
+clas = int(input("enter class:"))
+division = input("enter your division:")
+hobby = input("enter your hobby:")
+print(name,"is a student from class",clas,",",division,"division and likes to",hobby,"in free time")
